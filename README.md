@@ -1,6 +1,6 @@
 # Supervised Learning Projects Showcase
 
-This repository contains 10 small projects focused on various **supervised learning tasks**, spanning from traditional classifiers to advanced computer vision and transformer architectures. Some of these projects were done in collaboration with my university mates, showcasing teamwork and knowledge-sharing. The projects are implemented either in **MATLAB** or **Python Jupyter Notebooks**, depending on the task at hand. Each project tackles a unique challenge, ranging from statistical comparisons of machine learning algorithms to training deep learning models for object detection, image classification, and sequence analysis.
+This repository contains 9 small projects focused on various **supervised learning tasks**, spanning from traditional classifiers to advanced computer vision and deep learning architectures. Some of these projects were done in collaboration with my university mates, showcasing teamwork and knowledge-sharing. The projects are implemented either in **MATLAB** or **Python Jupyter Notebooks**, depending on the task at hand. Each project tackles a unique challenge, ranging from statistical comparisons of machine learning algorithms to training deep learning models for object detection, image classification, and sequence analysis.
 
 Below is a brief summary of the objectives of each project:
 
@@ -32,9 +32,6 @@ Below is a brief summary of the objectives of each project:
 
 9. **YOLOv5 Object Detection**  
    Objective: Train a small YOLOv5 model on the Vehicles-OpenImages dataset for 5-class object detection, testing the model on various images and videos.
-
-10. **Transformer for Sequence Classification**  
-    Objective: Explore the performance of a transformer-based model on a sequence classification task, analyzing the effects of sequence length and category count on model performance.
 
 ---
 
