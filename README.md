@@ -1,6 +1,6 @@
 # Supervised Learning Projects Showcase
 
-This repository contains 10 small projects focused on various **supervised learning tasks**, spanning from traditional classifiers to advanced computer vision and transformer architectures. Each project tackles a unique challenge, ranging from statistical comparisons of machine learning algorithms to training deep learning models for object detection, image classification, and sequence analysis.
+This repository contains 10 small projects focused on various **supervised learning tasks**, spanning from traditional classifiers to advanced computer vision and transformer architectures. Some of these projects were done in collaboration with my university mates, showcasing teamwork and knowledge-sharing. The projects are implemented either in **MATLAB** or **Python Jupyter Notebooks**, depending on the task at hand. Each project tackles a unique challenge, ranging from statistical comparisons of machine learning algorithms to training deep learning models for object detection, image classification, and sequence analysis.
 
 Below is a brief summary of the objectives of each project:
 
@@ -38,4 +38,4 @@ Below is a brief summary of the objectives of each project:
 
 ---
 
-Feel free to explore each project to dive deeper into the different machine learning tasks and methodologies used. Each project folder contains the code, models, and relevant documentation to replicate the experiments.
+Feel free to explore each project to dive deeper into the different machine learning tasks and methodologies used. Each project folder contains the code and a small report showing the methodologies and some results.
